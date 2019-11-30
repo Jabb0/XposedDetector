@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">XposedDetector</string>
+    <string name="dialog_message_xposed_found">XPOSED found...You faggit!</string>
+    <string name="dialog_title_xposed_found">Xposed found!</string>
+    <string name="ok">OK</string>
+    <string name="dialog_message_xposed_not_found">XPOSED not found. Lucky you</string>
+    <string name="dialog_title_xposed_not_found">XPOSED not found</string>
+</resources>
